@@ -1,0 +1,21 @@
+#### **Aula 3 - Introdução aos Testes de Software**
+
+- **Objetivos dos testes:**
+  - Identificar defeitos, verificar requisitos, garantir qualidade e reduzir riscos.
+- **Processo de teste:**
+  - Planejamento → Monitoramento → Análise → Modelagem → Implementação → Execução → Conclusão.
+- **Níveis de teste:**
+  - **Teste de unidade:** foco em componentes individuais do código.
+  - **Teste de integração:** verifica interação entre módulos.
+  - **Teste de sistema:** valida requisitos de ponta a ponta.
+  - **Teste de aceitação:** certifica que o sistema atende às expectativas do cliente.
+- **Tipos de teste:**
+  - **Funcionais:** verificam requisitos do software.
+  - **Não funcionais:** testam usabilidade, desempenho, segurança.
+  - **Caixa-branca:** foca na lógica interna do código.
+  - **Caixa-preta:** avalia entradas e saídas do sistema.
+  - **Testes de regressão:** garantem que mudanças não afetem funcionalidades existentes.
+- **Técnicas de teste:**
+  - **Caixa-preta:** partição de equivalência, análise de valor limite, tabela de decisão, transição de estado, caso de uso.
+  - **Caixa-branca:** cobertura de instruções, cobertura de decisões.
+  - **Baseadas na experiência:** suposição de erro, teste exploratório, checklist.
