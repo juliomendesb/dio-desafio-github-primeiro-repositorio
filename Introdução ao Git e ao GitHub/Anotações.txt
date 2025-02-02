@@ -1,0 +1,18 @@
+Comandos gerais CMD:
+
+-cd (troca de pasta) - cd / (sobe um nivel) - cd .. (volta pra pasta anterior)
+-dir (lista as pastas)
+-cls (limpa o terminal)
+-mkdir (criar pasta)
+-del (deleta arquivos) / rmdir (deleta pastas)
+
+------------------
+
+Comandos Git:
+
+git init - inicia um repositório
+git clone - clona um repositório
+git status - indica se há alterações pendentes no repositório
+git commit -m "" - faz um commit, incluindo uma mensagem descrevendo o commit
+git add <filename/dirname> - adiciona um arquivo ou pasta ao repositório
+git add -a - adiciona todos os arquivos na main/master ao repositório
