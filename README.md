@@ -1,5 +1,8 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
+
 Repositório criado para o Desafio de Projeto.
 
 ## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Meu LinkedIn](https://www.linkedin.com/in/juliomendesb/)
+[Meu perfil na DIO](https://www.dio.me/users/juliomendesborba)
